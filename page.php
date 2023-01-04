@@ -1,5 +1,5 @@
 <?php 
 
-echo "my sample page1";
+echo "my client code  page1";
 
 ?>
