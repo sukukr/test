@@ -1,7 +1,7 @@
 <?php 
 
 
-echo "page1";
+echo "my client edit page1";
 
 
 ?>
